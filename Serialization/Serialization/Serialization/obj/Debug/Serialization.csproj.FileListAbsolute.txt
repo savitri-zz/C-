@@ -1,0 +1,10 @@
+F:\Serialization\Serialization\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+F:\Serialization\Serialization\Serialization\obj\Debug\Serialization.Form1.resources
+F:\Serialization\Serialization\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+F:\Serialization\Serialization\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+F:\Serialization\Serialization\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+F:\Serialization\Serialization\Serialization\bin\Debug\Serialization.exe.config
+F:\Serialization\Serialization\Serialization\bin\Debug\Serialization.exe
+F:\Serialization\Serialization\Serialization\bin\Debug\Serialization.pdb
+F:\Serialization\Serialization\Serialization\obj\Debug\Serialization.exe
+F:\Serialization\Serialization\Serialization\obj\Debug\Serialization.pdb
